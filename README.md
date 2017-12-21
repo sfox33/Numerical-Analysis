@@ -1,2 +1,2 @@
 # Numerical-Analysis
-# Collection of various excercises and programs from Numerical Analysis book
+A collection of various Matlab scripts for excercises and programs from Numerical Analysis book
